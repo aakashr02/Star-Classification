@@ -11,9 +11,7 @@ The dataset used is the Star Dataset: Stellar Classification - https://www.kaggl
 The dataset contains several attributes of a star. A few of them are -
 
 TargetClass - Whether the Star is Dwarf (0) or Giant (1)
-
 B-V - B-V color index.
-
 Amag - Absolute Magnitude of the Star.
 
 The task is to classify the stars into 2 classes - Dwarf and Large. Here, 0 represents dwarf star and 1 represents large star. 
